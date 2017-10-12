@@ -1,0 +1,181 @@
+<html>
+<head>
+<title>Resume</title>
+
+</head>
+
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center;">RESUME</h1>
+<hr>
+<br>
+<br>
+<img src="/tmp/guest-ohkpmj/Downloads/aman.JPG" align="right" width="10%" height="20%">
+
+<br>
+
+<table border="1">
+<tr>
+<th style="color:green;">Personal Details</th>
+</tr>
+<tr>
+<th style="color:green;"><small>University Roll no.</small></th>
+<th><small>151500064</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Name</small></th>
+<th><small>Aman Mishra</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Father's Name</small></th>
+<th><small>Mr. Dileep Kumar Misra</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>D.O.B.</small></th>
+<th><small>01/07/1996</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Sex</small></th>
+<th><small>Male</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Email id</small></th>
+<th><small>aman.mishra_cs15@gla.ac.in</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Contact no.</small></th>
+<th><small>8960342536</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Personal Address</small></th>
+<th><small>Lakhimpur-Kheri</small></th>
+</tr>
+
+
+</table>
+
+
+
+
+
+<h2 style="color:green;"><small>Educational Qualification</small></h2>
+<table border="1">
+<tr>
+<td><form>Pursuing Qualification:-
+<input type="radio" name= "10">10th
+<input type="radio" name= "12">12th
+<input type="radio" name= "dip">Diploma
+<input type="radio" name= "grad" checked>Graduation
+<input type="radio" name= "pg">Post Graduation
+</tr>
+</form>
+</table>
+
+<br>
+
+<table border="1">
+<tr>
+<th style="color:green;">Standard</th>
+<th style="color:green;">Board</th>
+<th style="color:green;">School</th>
+<th style="color:green;">%Age</th>
+</tr>
+<tr>
+<th style="color:green;"><small>10th</small></th>
+<th><small>ICSE</small></th>
+<th><small>Children's Academy School</small></th>
+<th><small>82.6</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>12th</small></th>
+<th><small>ICSE</small></th>
+<th><small>Lucknow Public School</small></th>
+<th><small>79.4</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Btech/Graduation</small></th>
+<th><small>GLA University</small></th>
+<th><small>GLA University Mathura</small></th>
+<th><small>7.42</small></th>
+</tr>
+
+</table>
+<br>
+
+<table border="1">
+<tr>
+<th style="color:green;">Tech/Professional Skills</th>
+</tr>
+<tr>
+<th style="color:green;"><small>Subjects of Interest:-</small></th>
+<th><small>Database Management System,JAVA,Python</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Tech. Languages &<br>
+Tools Expertise</small></th>
+<th><small>JAVA,C,Python,Android</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Special Achievements</small></th>
+<th><small>Certificate in Android Development,<br>Certificate in Python Development,<br>Certificate in JAVA,<br>Certificate in C</small></th>
+
+</table>
+<br>
+
+<table border="1">
+<tr>
+<th style="color:green;">Training/Project</th>
+</tr>
+<tr>
+<th style="color:green;"><small>Training Title</small></th>
+<th><small>Android App Development</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Projects Undertaken</small></th>
+<th><small>QR code scanner App,Text Recognizer App,Battery Health App,Chatting App</small></th>
+</tr>
+<tr>
+
+</table>
+
+<br>
+
+<table border="1">
+<tr>
+<th style="color:green;">Training Details</th>
+</tr>
+<tr>
+<th style="color:green;"><small>Company Domain</small></th>
+<th><small>Aptech Training</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Company Name</small></th>
+<th><small>Aptech Training Institute</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Address</small></th>
+<th><small>Lucknow</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Contact No.</small></th>
+<th><small>8960342536</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Company email</small></th>
+<th><small>info@aptech.com</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Contact Person</small></th>
+<th><small>Mr.Ajay</small></th>
+</tr>
+<tr>
+<th style="color:green;"><small>Duration</small></th>
+<th><small>6 weeks</small></th>
+</tr>
+
+
+</table>
+
+
+</body>
+</html>
